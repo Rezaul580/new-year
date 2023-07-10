@@ -1,0 +1,81 @@
+.banner-container{
+      background-image: url("images/banner/banner3.png");
+      height: 100vh;
+      background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+      display: flex;
+      align-items: center;
+       text-align: right;
+       justify-content: flex-end;
+}
+.banner-info{
+      color: white;
+      width: 300px;
+      padding: 100px;
+      font-size: large;
+   
+}
+.btn{
+      color: red;
+      margin: 5px;
+      font-size: large;
+}
+.menu-containers{
+      display: flex;
+      align-items: center;
+      margin-right: 200px;
+      list-style: none;
+      font-size: large;
+     
+    
+}
+.about-person{
+      margin: 20px;
+      padding: 25px;
+
+}
+.list{
+      gap: 50px;
+}
+.pln{
+      text-align: center;
+}
+.icon-container{
+      display: flex;
+      justify-content: space-around;
+      text-align: center;
+      padding: 15px;
+}  
+.section-title{
+      text-align: center;
+  padding: 30px;
+} 
+.watch-section{
+      height: 50vh;
+      background-image: url("images/watch.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      /* border: solid red; */
+      border-radius: 5px;
+      padding: 10px;
+      margin: 0px 150px;
+}
+.watch-section{
+
+padding:100px;
+ padding-bottom: 10px;
+ font-size: large;
+     
+      
+}
+.btn{
+      font-size: large;
+      color: red;
+      border-radius: 5px;
+      padding: 10px;
+}
+
+
+   
